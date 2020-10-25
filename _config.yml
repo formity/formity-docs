@@ -1,0 +1,15 @@
+title: Formity Docs
+
+theme: "just-the-docs"
+
+aux_links:
+  "Formity":
+    - "https://getformity.com"
+  "Console":
+    - "https://console.getformity.com"
+
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/formity/formity-docs"
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
