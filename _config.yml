@@ -1,6 +1,6 @@
 title: Formity Docs
 
-theme: "just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
 
 aux_links:
   "Formity":
