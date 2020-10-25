@@ -8,6 +8,15 @@ aux_links:
   "Console":
     - "https://console.getformity.com"
 
+baseurl: /
+
+aux_links_new_tab: true
+
+last_edit_timestamp: false
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/formity/formity-docs"
